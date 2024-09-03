@@ -1,0 +1,2 @@
+Os arquivos neste repositório têm fins didáticos para um workshop, i.e., inseridos num contexto específico.
+Assim, talvez se faça necessário a leitura de materiais complementares que não estão disponíveis aqui, mas que estão indicados.
